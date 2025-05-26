@@ -1,2 +1,2 @@
 # animetriviaquiz
-A Java project for UMGC coursework.
+Anime-themed JavaFX quiz game with scoring and multiple-choice logic.
