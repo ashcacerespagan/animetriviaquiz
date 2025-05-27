@@ -21,21 +21,21 @@ Anime Trivia Quiz is a fun, beginner-friendly Java GUI application that tests yo
 ### 🕽️ Quiz Mode Selection
 
 <p float="left">
-  <img src="screenshots/Screenshot1.png" width="300"/>
-  <img src="screenshots/Screenshot2.png" width="300"/>
+  <img src="screenshots/screenshot_mode_dropdown.png" width="300"/>
+  <img src="screenshots/screenshot_mode_prompt.png" width="300"/>
 </p>
 
 ### ❓ Randomized Questions In-Game
 
 <p float="left">
-  <img src="screenshots/Screenshot3.png" width="400"/>
-  <img src="screenshots/Screenshot4.png" width="400"/>
+  <img src="screenshots/screenshot_question_1.png" width="400"/>
+  <img src="screenshots/screenshot_question_2.png" width="400"/>
 </p>
 
 ### 📊 Final Score Summary
 
 <p>
-  <img src="screenshots/Screenshot5.png" width="500"/>
+  <img src="screenshots/screenshot_score_summary.png" width="500"/>
 </p>
 
 ---
@@ -53,9 +53,11 @@ AnimeTriviaQuiz/
 │       ├── Question.java
 │       └── QuestionLoader.java
 ├── screenshots/
-│   ├── Screenshot1.png
-│   ├── Screenshot2.png
-│   └── etc.
+│   ├── screenshot_mode_dropdown.png
+│   ├── screenshot_mode_prompt.png
+│   ├── screenshot_question_1.png
+│   ├── screenshot_question_2.png
+│   └── screenshot_score_summary.png
 ```
 
 ---
